@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 15 Nov 2022 21:04:11 GMT
+// Generated on Wed, 16 Nov 2022 17:40:28 GMT
 
 
 import UIKit
@@ -12,14 +12,6 @@ import UIKit
 public enum StyleDictionaryColor {
     public static let betaSecondaryColorsBlueExtraDarkTextBeta = UIColor(red: 0.129, green: 0.173, blue: 0.192, alpha: 1)
     public static let betaSecondaryColorsDeprecatedBlueDarkTextLinkBeta = UIColor(red: 0.027, green: 0.392, blue: 0.671, alpha: 1)
-    public static let colorsEmpty = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let colorsMultipleFills0 = UIColor(red: 0.251, green: 1.000, blue: 0.729, alpha: 1)
-    public static let colorsMultipleFills1 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
-    public static let colorsRefBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
-    public static let colorsSemiRed = UIColor(red: 1.000, green: 0.373, blue: 0.016, alpha: 0.5019607843137255)
-    public static let colorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
-    public static let colorsSpecialCharacters = UIColor(red: 0.251, green: 0.875, blue: 0.314, alpha: 1)
-    public static let colorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
     public static let neutralColorsBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let neutralColorsGray = UIColor(red: 0.447, green: 0.447, blue: 0.447, alpha: 1)
     public static let neutralColorsGrayBackground = UIColor(red: 0.984, green: 0.984, blue: 0.984, alpha: 1)
