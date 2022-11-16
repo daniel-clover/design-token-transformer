@@ -27,7 +27,8 @@ StyleDictionary.registerTransformGroup({
   name: 'custom/css',
   transforms: StyleDictionary.transformGroup['css'].concat([
     'size/px',
-    'size/percent'
+    'size/percent', 
+    'size/rem'
   ])
 })
 
