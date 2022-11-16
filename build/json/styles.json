@@ -30,10 +30,5 @@
   "ColorNeutralColorsBlack": "#000000",
   "ColorNeutralColorsWhite": "#ffffff",
   "ColorBetaSecondaryColorsBlueExtraDarkTextBeta": "#212c31",
-  "ColorBetaSecondaryColorsDeprecatedBlueDarkTextLinkBeta": "#0764ab",
-  "EffectElevation1": {"shadowType":"dropShadow","radius":6,"color":"#25333826","offsetX":0,"offsetY":2,"spread":0},
-  "EffectFocusDefault": {"shadowType":"dropShadow","radius":0,"color":"#339dff99","offsetX":0,"offsetY":0,"spread":2},
-  "EffectFocusError": {"shadowType":"dropShadow","radius":0,"color":"#e70000b3","offsetX":0,"offsetY":0,"spread":2},
-  "EffectFocusSecondary": {"shadowType":"dropShadow","radius":0,"color":"#43b02a99","offsetX":0,"offsetY":0,"spread":2},
-  "EffectFocusReadOnly": {"shadowType":"dropShadow","radius":0,"color":"#9966ccb3","offsetX":0,"offsetY":0,"spread":2}
+  "ColorBetaSecondaryColorsDeprecatedBlueDarkTextLinkBeta": "#0764ab"
 }

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Nov 2022 17:40:28 GMT
+// Generated on Wed, 16 Nov 2022 18:10:35 GMT
 
 
 import UIKit
@@ -42,9 +42,4 @@ public class StyleDictionary {
     public static let colorUtilityColorsRedPin = UIColor(red: 1.000, green: 0.369, blue: 0.369, alpha: 1)
     public static let colorUtilityColorsYellow = UIColor(red: 1.000, green: 0.820, blue: 0.000, alpha: 1)
     public static let colorUtilityColorsYellowBackground = UIColor(red: 1.000, green: 0.965, blue: 0.800, alpha: 1)
-    public static let effectElevation1 = [object Object]
-    public static let effectFocusDefault = [object Object]
-    public static let effectFocusError = [object Object]
-    public static let effectFocusReadOnly = [object Object]
-    public static let effectFocusSecondary = [object Object]
 }
