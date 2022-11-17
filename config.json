@@ -40,16 +40,13 @@
         }
       }]
     },
-    "cs-colors": {
+    "css-colors": {
       "transformGroup": "custom/css",
       "buildPath": "build/css/",
       "files": [{
         "destination": "_colors.css",
         "format": "css/variables",
-        "filter": {
-          "category" : "color"
-
-        },
+        "filter": "isColor",
         "options" : {
           "showFileHeader": false
         }
