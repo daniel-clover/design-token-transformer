@@ -20,6 +20,15 @@
         "format": "scss/variables"
       }]
     },
+    "scss-colors": {
+      "transformGroup": "custom/scss",
+      "buildPath": "build/scss/",
+      "files": [{
+        "destination": "_colors.scss",
+        "filter": "isColor",
+        "format": "scss/variables"
+      }]
+    },
     "less": {
       "transformGroup": "custom/less",
       "buildPath": "build/less/",
