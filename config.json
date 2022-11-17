@@ -40,6 +40,21 @@
         }
       }]
     },
+    "cs-colors": {
+      "transformGroup": "custom/css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "_colors.css",
+        "format": "css/variables",
+        "filter": {
+          "category" : "color"
+
+        },
+        "options" : {
+          "showFileHeader": false
+        }
+      }]
+    },
     "json-flat": {
       "transformGroup": "js",
       "buildPath": "build/json/",
