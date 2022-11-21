@@ -62,12 +62,6 @@ StyleDictionary.registerFilter({
   }
 })
 
-StyleDictionary.registerFilter({
-  name: 'isNotColor',
-  matcher: function(token) {
-    return token.attributes.category !== 'color';
-  }
-})
 const StyleDictionaryExtended = StyleDictionary.extend(baseConfig)
 
 StyleDictionaryExtended.buildAllPlatforms()
