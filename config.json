@@ -72,6 +72,18 @@
         }
       }]
     },
+    "css-typography": {
+      "transformGroup": "custom/css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "_typography.css",
+        "filter": "isTypography",
+        "format": "css/variables",
+        "options" : {
+          "showFileHeader": false
+        }
+      }]
+    },
     "json-flat": {
       "transformGroup": "js",
       "buildPath": "build/json/",

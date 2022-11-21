@@ -62,6 +62,13 @@ StyleDictionary.registerFilter({
   }
 })
 
+StyleDictionary.registerFilter({
+  name: 'isTypography',
+  matcher: function(token) {
+    return token.attributes.category === 'typography';
+  }
+})
+
 const StyleDictionaryExtended = StyleDictionary.extend(baseConfig)
 
 StyleDictionaryExtended.buildAllPlatforms()
