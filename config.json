@@ -84,6 +84,18 @@
         }
       }]
     },
+    "css-clover": {
+      "transformGroup": "custom/css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "clover/_typography.css",
+        "filter": "isThreePointZero",
+        "format": "css/variables",
+        "options" : {
+          "showFileHeader": false
+        }
+      }]
+    },
     "json-flat": {
       "transformGroup": "js",
       "buildPath": "build/json/",

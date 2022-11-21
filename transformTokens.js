@@ -69,6 +69,13 @@ StyleDictionary.registerFilter({
   }
 })
 
+StyleDictionary.registerFilter({
+  name: 'isThreePointZero',
+  matcher: function(token) {
+    return token.attributes.type === 'clover 3.0';
+  }
+})
+
 const StyleDictionaryExtended = StyleDictionary.extend(baseConfig)
 
 StyleDictionaryExtended.buildAllPlatforms()
