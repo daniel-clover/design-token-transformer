@@ -65,7 +65,7 @@
       "transformGroup": "custom/css",
       "buildPath": "build/css/",
       "files": [{
-        "destination": "_colors.css",
+        "destination": "_all.css",
         "format": "css/variables",
         "options" : {
           "showFileHeader": false
