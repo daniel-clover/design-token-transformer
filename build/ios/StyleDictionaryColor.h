@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 21 Nov 2022 18:25:34 GMT
+// Generated on Tue, 22 Nov 2022 17:30:28 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -41,7 +41,39 @@ ColorNeutralColorsGrayDark,
 ColorNeutralColorsBlack,
 ColorNeutralColorsWhite,
 ColorBetaSecondaryColorsBlueExtraDarkTextBeta,
-ColorBetaSecondaryColorsDeprecatedBlueDarkTextLinkBeta
+ColorBetaSecondaryColorsDeprecatedBlueDarkTextLinkBeta,
+PrimaryColorsGreenBackground,
+PrimaryColorsGreenAccent,
+PrimaryColorsGreen,
+PrimaryColorsGreenDark,
+SecondaryColorsBlueBackground,
+SecondaryColorsBlueAccent,
+SecondaryColorsBlue,
+SecondaryColorsBlueDark,
+SecondaryColorsBlueDarkBackground,
+SecondaryColorsBlueTextLink,
+TertiaryColorsTealBackground,
+TertiaryColorsTealAccent,
+TertiaryColorsTeal,
+TertiaryColorsTealDark,
+TertiaryColorsEggplantBackground,
+TertiaryColorsEggplantAccent,
+TertiaryColorsEggplantDark,
+UtilityColorsRedBackground,
+UtilityColorsRed,
+UtilityColorsRedDark,
+UtilityColorsRedPin,
+UtilityColorsYellowBackground,
+UtilityColorsYellow,
+NeutralColorsGrayBackground,
+NeutralColorsGrayLight,
+NeutralColorsGrayDisabled,
+NeutralColorsGray,
+NeutralColorsGrayDark,
+NeutralColorsBlack,
+NeutralColorsWhite,
+BetaSecondaryColorsBlueExtraDarkTextBeta,
+BetaSecondaryColorsDeprecatedBlueDarkTextLinkBeta
 };
 
 @interface StyleDictionaryColor : NSObject
