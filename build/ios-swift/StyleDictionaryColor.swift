@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 22 Nov 2022 17:30:28 GMT
+// Generated on Tue, 22 Nov 2022 17:39:03 GMT
 
 
 import UIKit
@@ -12,25 +12,6 @@ import UIKit
 public enum StyleDictionaryColor {
     public static let betaSecondaryColorsBlueExtraDarkTextBeta = UIColor(red: 0.129, green: 0.173, blue: 0.192, alpha: 1)
     public static let betaSecondaryColorsDeprecatedBlueDarkTextLinkBeta = UIColor(red: 0.027, green: 0.392, blue: 0.671, alpha: 1)
-    public static let black = #000000ff
-    public static let blue = #3271abff
-    public static let blueAccent = #339dffff
-    public static let blueBackground = #e6f3ffff
-    public static let blueDark = #285a88ff
-    public static let blueDarkBackground = #253338ff
-    public static let blueTextLink = #0764abff
-    public static let eggplantAccent = #9966ccff
-    public static let eggplantBackground = #faf3fdff
-    public static let eggplantDark = #5b3e77ff
-    public static let gray = #727272ff
-    public static let grayBackground = #fbfbfbff
-    public static let grayDark = #5c5c5cff
-    public static let grayDisabled = #c7c7c7ff
-    public static let grayLight = #e5e5e5ff
-    public static let green = #228800ff
-    public static let greenAccent = #43b02aff
-    public static let greenBackground = #f2fceeff
-    public static let greenDark = #276a16ff
     public static let neutralColorsBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let neutralColorsGray = UIColor(red: 0.447, green: 0.447, blue: 0.447, alpha: 1)
     public static let neutralColorsGrayBackground = UIColor(red: 0.984, green: 0.984, blue: 0.984, alpha: 1)
@@ -42,22 +23,12 @@ public enum StyleDictionaryColor {
     public static let primaryColorsGreenAccent = UIColor(red: 0.263, green: 0.690, blue: 0.165, alpha: 1)
     public static let primaryColorsGreenBackground = UIColor(red: 0.949, green: 0.988, blue: 0.933, alpha: 1)
     public static let primaryColorsGreenDark = UIColor(red: 0.153, green: 0.416, blue: 0.086, alpha: 1)
-    public static let red = #e70000ff
-    public static let redBackground = #ffededff
-    public static let redDark = #c60000ff
-    public static let redPin = #ff5e5eff
     public static let secondaryColorsBlue = UIColor(red: 0.196, green: 0.443, blue: 0.671, alpha: 1)
     public static let secondaryColorsBlueAccent = UIColor(red: 0.200, green: 0.616, blue: 1.000, alpha: 1)
     public static let secondaryColorsBlueBackground = UIColor(red: 0.902, green: 0.953, blue: 1.000, alpha: 1)
     public static let secondaryColorsBlueDark = UIColor(red: 0.157, green: 0.353, blue: 0.533, alpha: 1)
     public static let secondaryColorsBlueDarkBackground = UIColor(red: 0.145, green: 0.200, blue: 0.220, alpha: 1)
-    public static let secondaryColorsBlueExtraDarkTextBeta = #212c31ff
     public static let secondaryColorsBlueTextLink = UIColor(red: 0.027, green: 0.392, blue: 0.671, alpha: 1)
-    public static let secondaryColorsDeprecatedBlueDarkTextLinkBeta = #0764abff
-    public static let teal = #14818dff
-    public static let tealAccent = #69d0ddff
-    public static let tealBackground = #eefbfcff
-    public static let tealDark = #286271ff
     public static let tertiaryColorsEggplantAccent = UIColor(red: 0.600, green: 0.400, blue: 0.800, alpha: 1)
     public static let tertiaryColorsEggplantBackground = UIColor(red: 0.980, green: 0.953, blue: 0.992, alpha: 1)
     public static let tertiaryColorsEggplantDark = UIColor(red: 0.357, green: 0.243, blue: 0.467, alpha: 1)
@@ -71,7 +42,4 @@ public enum StyleDictionaryColor {
     public static let utilityColorsRedPin = UIColor(red: 1.000, green: 0.369, blue: 0.369, alpha: 1)
     public static let utilityColorsYellow = UIColor(red: 1.000, green: 0.820, blue: 0.000, alpha: 1)
     public static let utilityColorsYellowBackground = UIColor(red: 1.000, green: 0.965, blue: 0.800, alpha: 1)
-    public static let white = #ffffffff
-    public static let yellow = #ffd100ff
-    public static let yellowBackground = #fff6ccff
 }
