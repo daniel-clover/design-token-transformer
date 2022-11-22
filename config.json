@@ -84,11 +84,23 @@
         }
       }]
     },
-    "css-clover": {
+    "css-clover-3": {
       "transformGroup": "custom/css",
       "buildPath": "build/css/",
       "files": [{
-        "destination": "clover/_typography.css",
+        "destination": "clover/3/_all.css",
+        "filter": "isThreePointZero",
+        "format": "css/variables",
+        "options" : {
+          "showFileHeader": false
+        }
+      }]
+    },
+    "css-clover-2": {
+      "transformGroup": "custom/css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "clover/2/_all.css",
         "filter": "isThreePointZero",
         "format": "css/variables",
         "options" : {

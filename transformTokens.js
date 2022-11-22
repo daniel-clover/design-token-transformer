@@ -76,6 +76,13 @@ StyleDictionary.registerFilter({
   }
 })
 
+StyleDictionary.registerFilter({
+  name: 'isTwoPointZero',
+  matcher: function(token) {
+    return token.attributes.type === 'clover 2.0';
+  }
+})
+
 const StyleDictionaryExtended = StyleDictionary.extend(baseConfig)
 
 StyleDictionaryExtended.buildAllPlatforms()
