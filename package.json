@@ -13,7 +13,7 @@
     "ts-jest": "^27.0.3"
   },
   "scripts": {
-    "start": "npm run transform-tokens",
+    "start": "npm run transform-tokens --expand-typography",
     "transform-tokens": "node ./transformTokens.js",
     "test": "jest tests --coverage=false",
     "transform:android": "node ./examples/android/build.js",
