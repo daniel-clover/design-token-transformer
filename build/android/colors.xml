@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 22 Nov 2022 18:27:12 GMT
+-->
+<resources>
+  <color name="color_primary_colors_green_background">#fff2fcee</color>
+  <color name="color_primary_colors_green_accent">#ff43b02a</color>
+  <color name="color_primary_colors_green">#ff228800</color>
+  <color name="color_primary_colors_green_dark">#ff276a16</color>
+  <color name="color_secondary_colors_blue_background">#ffe6f3ff</color>
+  <color name="color_secondary_colors_blue_accent">#ff339dff</color>
+  <color name="color_secondary_colors_blue">#ff3271ab</color>
+  <color name="color_secondary_colors_blue_dark">#ff285a88</color>
+  <color name="color_secondary_colors_blue_dark_background">#ff253338</color>
+  <color name="color_secondary_colors_blue_text_link">#ff0764ab</color>
+  <color name="color_tertiary_colors_teal_background">#ffeefbfc</color>
+  <color name="color_tertiary_colors_teal_accent">#ff69d0dd</color>
+  <color name="color_tertiary_colors_teal">#ff14818d</color>
+  <color name="color_tertiary_colors_teal_dark">#ff286271</color>
+  <color name="color_tertiary_colors_eggplant_background">#fffaf3fd</color>
+  <color name="color_tertiary_colors_eggplant_accent">#ff9966cc</color>
+  <color name="color_tertiary_colors_eggplant_dark">#ff5b3e77</color>
+  <color name="color_utility_colors_red_background">#ffffeded</color>
+  <color name="color_utility_colors_red">#ffe70000</color>
+  <color name="color_utility_colors_red_dark">#ffc60000</color>
+  <color name="color_utility_colors_red_pin">#ffff5e5e</color>
+  <color name="color_utility_colors_yellow_background">#fffff6cc</color>
+  <color name="color_utility_colors_yellow">#ffffd100</color>
+  <color name="color_neutral_colors_gray_background">#fffbfbfb</color>
+  <color name="color_neutral_colors_gray_light">#ffe5e5e5</color>
+  <color name="color_neutral_colors_gray_disabled">#ffc7c7c7</color>
+  <color name="color_neutral_colors_gray">#ff727272</color>
+  <color name="color_neutral_colors_gray_dark">#ff5c5c5c</color>
+  <color name="color_neutral_colors_black">#ff000000</color>
+  <color name="color_neutral_colors_white">#ffffffff</color>
+  <color name="color_beta_secondary_colors_blue_extra_dark_text_beta">#ff212c31</color>
+  <color name="color_beta_secondary_colors_deprecated_blue_dark_text_link_beta">#ff0764ab</color>
+  
+</resources>
